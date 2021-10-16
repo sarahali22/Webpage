@@ -1,0 +1,51 @@
+<header class="masthead">
+  <p class="masthead-intro">Sarah</p>
+  <h1 class="masthead-heading">Clean energy advocate</h1>
+</header>
+  <section class="introduction-section">
+    <div class="container">
+    <h1>Introduction</h1>
+    <p>Hello! My name is Sarah, I like to write poetry, and I'm <strong></strong> interested in <a href="http://dirigiblestudio.com/">wind turbines</a> here in Ashburn, VA.
+    <p/>
+   
+    <p>Climate change is a serious threat to our planet's health. I think it's important to switch to clean energy sources. <strong>One way is to use electricity </strong>, to power cars and homes. Electricity can come from clean sources such as solar and wind. <a href="https://www.rewiringamerica.org//">Rewiring America</a> is an organization with more information about converting to electric power.</p>
+  </a>
+
+  <section class="location-section">
+    <div class="container">
+    <h1>Wind</h1>
+    <p>Wind can be harnessed by blades that spin to generate electricity in <a href="https://en.wikipedia.org/wiki/Wind_power#/media/File:Wind_power_plants_in_Xinjiang,_China.jpg">Virginia</a> my home. My favorite part about <b>Madison</b> is that we're a city built around a large <a href="http://www.wisc.edu/">university</a>. There's a vibrant crowd here that keeps this city bold and <strong>progressive</strong>. 
+    
+    The isles of <a href="http://www.quickmeme.com/img/50/50507a001a1b91078f63c8da7f340e9a529c7f22a65d0666ce1128bde8513d42.jpg">cheese</a> in every grocery store aren't so bad either.
+      
+    <p>You can find me in the city, <strong>camera</strong> in hand, documenting the stories around me, or in little cafe's writing about my daily <a href="http://www.kedarjoyner.com/blog/">adventures</a> and the people I meet.</p>
+    </div>
+  </section>
+
+  <section class="questions-section">
+    <div class="container">
+    <h1>More About Me</h1>
+    <h2>What are your favorite hobbies?</h2>
+    <p>I love to explore new cities, take photographs, eat tacos, catnap with my cat, bike to big lakes, hold hands, play video games, dance in hay lofts, spend weekends with my grandpa, drink good <a href="http://www.proof66.com/whiskey/eagle-rare-10yr-bourbon.html">lemonade</a>, and sit outside all night on porches.</h2>
+
+    <h2>What's your dream job?</h2>
+    <p>A professional turtle racer. Just kidding, I would love to be a full-time <strong>creative</strong> who's given an array of responsibilities in front-end work, photography, design, and whatever else comes my way.</p>
+
+    <h2>Musical Interests</h2>
+    <p>My husband and I recently roadtripped through Arizona listening to the band <a href="http://houndmouth.com/">Houdmouth</a>. I don't know what it is about them, but they make you want to keep driving and driving. Start with the song <a href="https://www.youtube.com/watch?v=Y8wifV5RYr8">"Sedona"</a> first.</p>
+    </div>
+  </section>
+
+  <footer class="content-footer">
+    <div class="footer-container">
+    <p>Say hi to me on these social networks:</p>
+    
+    <a target="_blank" href="https://github.com/kedarjoyner"><i class="fa fa-github-alt fa-inverse fa-2x"></i></a>
+    &nbsp;
+    <a href="https://twitter.com/kedmasterk"><i class="fa fa-twitter fa-inverse fa-2x"></i></a>
+    &nbsp;
+    <a href="https://instagram.com/kedarjoyner/"><i class="fa fa-instagram fa-inverse fa-2x"></i></a>
+    
+    <p>Cover Image via <a href="http://www.kedarjoyner.com">Kedar Joyner Photography</a></p>
+</div>
+  </footer>
